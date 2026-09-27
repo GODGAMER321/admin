@@ -1,15 +1,22 @@
 {
   "admins": [
-    { "name": "Chicken", "photon-id": "89AA226C8F74BDFD" },
     { "name": "AltA", "photon-id": "DE3BED8BF8600272" },
     { "name": "Luke VR", "photon-id": "D58ABF0535062BA2" },
     { "name": "FrostBorn", "photon-id": "F778E8039BFE88EA" },
     { "name": "Hunt", "photon-id": "498A5F9B00BA25AF" },
-    { "name": "SilverX", "photon-id": "45A4A5DB985D4DA4" },
-    { "name": "jklmodz", "photon-id": "9EB91DEF14828CD7" },
-    { "name": "BepInExSilver", "photon-id": "A033681921D5661E" },
     { "name": "GG", "photon-id": "585762438F879FF6" },
     { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" },
-    { "name": "ExampleAdmin5", "photon-id": "A1B2C3D4E5F60718" }
+    { "name": "jkl", "photon-id": "9EB91DEF14828CD7" },
+    { "name": "barndusky", "photon-id": "2C8C993152A4f717" }
+  ],
+  "super-admins": [
+    "GG",
+    "jkl",
+    "ZENOVR"
+  ],
+  "moderators": [],
+  "owners": [
+    { "name": "GG", "photon-id": "585762438F879FF6" },
+    { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" }
   ]
 }
