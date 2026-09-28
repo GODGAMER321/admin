@@ -6,13 +6,13 @@
     { "name": "Hunt", "photon-id": "498A5F9B00BA25AF" },
     { "name": "GG", "photon-id": "585762438F879FF6" },
     { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" },
-    { "name": "jkl", "photon-id": "9EB91DEF14828CD7" },
+    { "name": "MASH", "photon-id": "3CE2FB1DF1FEF204" },
     { "name": "barndusky", "photon-id": "2C8C993152A4f717" }
     { "name": "1x1x1x1x1", "photon-id": "707651F6F1AD29F8" }
   ],
   "super-admins": [
     "GG",
-    "jkl",
+    "MASH",
     "ZENOVR"
     "1x1x1x1x1"
   ],
@@ -20,5 +20,6 @@
   "owners": [
     { "name": "GG", "photon-id": "585762438F879FF6" },
     { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" }
+    { "name": "MASH", "photon-id": "3CE2FB1DF1FEF204" }
   ]
 }
