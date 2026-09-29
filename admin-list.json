@@ -8,11 +8,13 @@
     { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" },
     { "name": "MASH", "photon-id": "3CE2FB1DF1FEF204" },
     { "name": "barndusky", "photon-id": "2C8C993152A4F717" },
+    { "name": "SilverXSteam", "photon-id": "CA9588EB78C2D7DD" }
   ],
   "super-admins": [
     "GG",
     "MASH",
-    "ZENOVR"
+    "ZENOVR",
+    "SilverXSteam"
   ],
   "moderators": [],
   "owners": [
