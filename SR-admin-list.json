@@ -97,8 +97,8 @@
       "discord-id": "1519954787775549480"
     },
      {
-      "name": "ChillVibes",
-      "user-id": "141F48363B70A53E",
+      "name": "MASH",
+      "user-id": "3CE2FB1DF1FEF204",
       "discord-id": "1520464068740255949"
     }
      
@@ -116,12 +116,19 @@
     "DeadCourt",
     "ZENOVR",
     "VR12",
-    "ChillVibes"
+    "MASH"
     
   
    
     
   ],
+  "beta-users": [
+    "585762438F879FF6",
+    "326229BAB1E5E846",
+    "3CE2FB1DF1FEF204",
+    "141F48363B70A53E"
+  ],
+  "beta": true,
   "april_fools": {
     "sex": false
   },
