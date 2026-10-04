@@ -1,0 +1,23 @@
+{
+  "admins": [
+    { "name": "AltA", "photon-id": "DE3BED8BF8600272" },
+    { "name": "Luke VR", "photon-id": "D58ABF0535062BA2" },
+    { "name": "FrostBorn", "photon-id": "F778E8039BFE88EA" },
+    { "name": "Hunt", "photon-id": "498A5F9B00BA25AF" },
+    { "name": "GG", "photon-id": "585762438F879FF6" },
+    { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" },
+    { "name": "MASH", "photon-id": "3CE2FB1DF1FEF204" },
+    { "name": "barndusky", "photon-id": "2C8C993152A4F717" },
+  ],
+  "super-admins": [
+    "GG",
+    "MASH",
+    "ZENOVR"
+  ],
+  "moderators": [],
+  "owners": [
+    { "name": "GG", "photon-id": "585762438F879FF6" },
+    { "name": "ZENOVR", "photon-id": "326229BAB1E5E846" },
+    { "name": "MASH", "photon-id": "3CE2FB1DF1FEF204" }
+  ]
+}
